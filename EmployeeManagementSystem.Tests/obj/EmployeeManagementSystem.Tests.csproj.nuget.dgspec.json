@@ -1,0 +1,197 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\kananavy\\Pictures\\Teste2\\SGE\\EmployeeManagementSystem.Tests\\EmployeeManagementSystem.Tests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\kananavy\\Pictures\\Teste2\\SGE\\EmployeeManagementSystem.Tests\\EmployeeManagementSystem.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kananavy\\Pictures\\Teste2\\SGE\\EmployeeManagementSystem.Tests\\EmployeeManagementSystem.Tests.csproj",
+        "projectName": "EmployeeManagementSystem.Tests",
+        "projectPath": "C:\\Users\\kananavy\\Pictures\\Teste2\\SGE\\EmployeeManagementSystem.Tests\\EmployeeManagementSystem.Tests.csproj",
+        "packagesPath": "C:\\Users\\kananavy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kananavy\\Pictures\\Teste2\\SGE\\EmployeeManagementSystem.Tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\kananavy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net4.8"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "targetAlias": "net4.8",
+            "projectReferences": {
+              "C:\\Users\\kananavy\\Pictures\\Teste2\\SGE\\EmployeeManagementSystem\\EmployeeManagementSystem.csproj": {
+                "projectPath": "C:\\Users\\kananavy\\Pictures\\Teste2\\SGE\\EmployeeManagementSystem\\EmployeeManagementSystem.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "targetAlias": "net4.8",
+          "dependencies": {
+            "Guna.Charts.WinForms": {
+              "target": "Package",
+              "version": "[1.0.9, )"
+            },
+            "Guna.UI2.WinForms": {
+              "target": "Package",
+              "version": "[2.0.4.6, )"
+            },
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.6.1, )"
+            },
+            "Microsoft.Data.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.0-rc.2.24474.1, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.11.1, )"
+            },
+            "Microsoft.ReportViewer.Common": {
+              "target": "Package",
+              "version": "[10.0.40219.1, )"
+            },
+            "Microsoft.ReportViewer.Runtime.Common": {
+              "target": "Package",
+              "version": "[12.0.2402.15, )"
+            },
+            "Microsoft.ReportViewer.WinForms": {
+              "target": "Package",
+              "version": "[10.0.40219.1, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            },
+            "coverlet.collector": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[6.0.2, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\kananavy\\Pictures\\Teste2\\SGE\\EmployeeManagementSystem\\EmployeeManagementSystem.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\kananavy\\Pictures\\Teste2\\SGE\\EmployeeManagementSystem\\EmployeeManagementSystem.csproj",
+        "projectName": "EmployeeManagementSystem",
+        "projectPath": "C:\\Users\\kananavy\\Pictures\\Teste2\\SGE\\EmployeeManagementSystem\\EmployeeManagementSystem.csproj",
+        "packagesPath": "C:\\Users\\kananavy\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\kananavy\\Pictures\\Teste2\\SGE\\EmployeeManagementSystem\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\kananavy\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "Guna.Charts.WinForms": {
+              "target": "Package",
+              "version": "[1.0.9, )"
+            },
+            "Guna.UI2.WinForms": {
+              "target": "Package",
+              "version": "[2.0.4.6, )"
+            },
+            "Microsoft.Data.Sqlite": {
+              "target": "Package",
+              "version": "[9.0.0-rc.2.24474.1, )"
+            },
+            "Microsoft.ReportViewer.Common": {
+              "target": "Package",
+              "version": "[10.0.40219.1, )"
+            },
+            "Microsoft.ReportViewer.Runtime.Common": {
+              "target": "Package",
+              "version": "[12.0.2402.15, )"
+            },
+            "Microsoft.ReportViewer.WinForms": {
+              "target": "Package",
+              "version": "[10.0.40219.1, )"
+            },
+            "Microsoft.ReportViewer.WinForms": {
+              "target": "Package",
+              "version": "[10.0.40219.1, )"
+            },
+            "Microsoft.ReportViewer.WinForms": {
+              "target": "Package",
+              "version": "[10.0.40219.1, )"
+            },
+            "Microsoft.Win32.SystemEvents": {
+              "target": "Package",
+              "version": "[9.0.0-rc.2.24473.5, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.20.72, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}

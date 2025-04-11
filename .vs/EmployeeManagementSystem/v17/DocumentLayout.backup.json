@@ -1,0 +1,185 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\kananavy\\Pictures\\Teste2\\SGE\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|C:\\Users\\kananavy\\Pictures\\Teste2\\SGE\\employeemanagementsystem\\desing\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\desing\\dashboard.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|c:\\users\\kananavy\\pictures\\teste2\\sge\\employeemanagementsystem\\formulaire\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\formulaire\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|C:\\Users\\kananavy\\Pictures\\Teste2\\SGE\\employeemanagementsystem\\formulaire\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\formulaire\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|C:\\Users\\kananavy\\Pictures\\Teste2\\SGE\\employeemanagementsystem\\data\\employeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\data\\employeedata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|C:\\Users\\kananavy\\Pictures\\Teste2\\SGE\\employeemanagementsystem\\desing\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\desing\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|C:\\Users\\kananavy\\Pictures\\Teste2\\SGE\\employeemanagementsystem\\desing\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\desing\\addemployee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|C:\\Users\\kananavy\\Pictures\\Teste2\\SGE\\employeemanagementsystem\\desing\\timeoff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\desing\\timeoff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|C:\\Users\\kananavy\\Pictures\\Teste2\\SGE\\employeemanagementsystem\\desing\\timeoff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\desing\\timeoff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|C:\\Users\\kananavy\\Pictures\\Teste2\\SGE\\employeemanagementsystem\\desing\\addemployee.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C7DAF6B-9712-48EE-B405-C746F1E3043D}|EmployeeManagementSystem\\EmployeeManagementSystem.csproj|solutionrelative:employeemanagementsystem\\desing\\addemployee.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\kananavy\\Pictures\\Teste2\\SGE\\EmployeeManagementSystem\\Formulaire\\MainForm.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Formulaire\\MainForm.cs",
+              "ToolTip": "C:\\Users\\kananavy\\Pictures\\Teste2\\SGE\\EmployeeManagementSystem\\Formulaire\\MainForm.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Formulaire\\MainForm.cs",
+              "ViewState": "AgIAAEIBAAAAAAAAAAAYwFQBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-12T21:54:47.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Dashboard.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\kananavy\\Pictures\\Teste2\\SGE\\EmployeeManagementSystem\\Desing\\Dashboard.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Desing\\Dashboard.cs",
+              "ToolTip": "C:\\Users\\kananavy\\Pictures\\Teste2\\SGE\\EmployeeManagementSystem\\Desing\\Dashboard.cs [Conception]",
+              "RelativeToolTip": "EmployeeManagementSystem\\Desing\\Dashboard.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-06T06:25:08.603Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainForm.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\kananavy\\Pictures\\Teste2\\SGE\\EmployeeManagementSystem\\Formulaire\\MainForm.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Formulaire\\MainForm.cs",
+              "ToolTip": "C:\\Users\\kananavy\\Pictures\\Teste2\\SGE\\EmployeeManagementSystem\\Formulaire\\MainForm.cs [Conception]",
+              "RelativeToolTip": "EmployeeManagementSystem\\Formulaire\\MainForm.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T04:13:20.284Z",
+              "EditorCaption": " [Conception]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployeeData.cs",
+              "DocumentMoniker": "C:\\Users\\kananavy\\Pictures\\Teste2\\SGE\\EmployeeManagementSystem\\Data\\EmployeeData.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Data\\EmployeeData.cs",
+              "ToolTip": "C:\\Users\\kananavy\\Pictures\\Teste2\\SGE\\EmployeeManagementSystem\\Data\\EmployeeData.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Data\\EmployeeData.cs",
+              "ViewState": "AgIAAF4AAACEzczMzMwnwH8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T04:10:06.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AddEmployee.Designer.cs",
+              "DocumentMoniker": "C:\\Users\\kananavy\\Pictures\\Teste2\\SGE\\EmployeeManagementSystem\\Desing\\AddEmployee.Designer.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Desing\\AddEmployee.Designer.cs",
+              "ToolTip": "C:\\Users\\kananavy\\Pictures\\Teste2\\SGE\\EmployeeManagementSystem\\Desing\\AddEmployee.Designer.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Desing\\AddEmployee.Designer.cs",
+              "ViewState": "AgIAAKYDAAAAAAAAAAAqwMcDAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T04:03:09.242Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AddEmployee.cs",
+              "DocumentMoniker": "C:\\Users\\kananavy\\Pictures\\Teste2\\SGE\\EmployeeManagementSystem\\Desing\\AddEmployee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Desing\\AddEmployee.cs",
+              "ToolTip": "C:\\Users\\kananavy\\Pictures\\Teste2\\SGE\\EmployeeManagementSystem\\Desing\\AddEmployee.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Desing\\AddEmployee.cs",
+              "ViewState": "AgIAAAYBAAAAfGZmZuYswDoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T04:02:10.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AddEmployee.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\kananavy\\Pictures\\Teste2\\SGE\\EmployeeManagementSystem\\Desing\\AddEmployee.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Desing\\AddEmployee.cs",
+              "ToolTip": "C:\\Users\\kananavy\\Pictures\\Teste2\\SGE\\EmployeeManagementSystem\\Desing\\AddEmployee.cs [Conception]",
+              "RelativeToolTip": "EmployeeManagementSystem\\Desing\\AddEmployee.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-20T03:48:09.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TimeOff.cs",
+              "DocumentMoniker": "C:\\Users\\kananavy\\Pictures\\Teste2\\SGE\\EmployeeManagementSystem\\Desing\\TimeOff.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Desing\\TimeOff.cs",
+              "ToolTip": "C:\\Users\\kananavy\\Pictures\\Teste2\\SGE\\EmployeeManagementSystem\\Desing\\TimeOff.cs",
+              "RelativeToolTip": "EmployeeManagementSystem\\Desing\\TimeOff.cs",
+              "ViewState": "AgIAANIAAAAAAzMzMzMrwA0BAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T14:02:43.638Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TimeOff.cs [Conception]",
+              "DocumentMoniker": "C:\\Users\\kananavy\\Pictures\\Teste2\\SGE\\EmployeeManagementSystem\\Desing\\TimeOff.cs",
+              "RelativeDocumentMoniker": "EmployeeManagementSystem\\Desing\\TimeOff.cs",
+              "ToolTip": "C:\\Users\\kananavy\\Pictures\\Teste2\\SGE\\EmployeeManagementSystem\\Desing\\TimeOff.cs [Conception]",
+              "RelativeToolTip": "EmployeeManagementSystem\\Desing\\TimeOff.cs [Conception]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-13T21:17:51.971Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 96,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
